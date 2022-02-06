@@ -1,2 +1,2 @@
 # hello-world
-hello-world in github for several programing languages
+hello-world in github by several programing languages.
